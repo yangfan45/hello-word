@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+ssh-dao/src/main/resources/
+ssh-dao/src/test/
+ssh-manager/src/main/
+ssh-manager/src/test/
+ssh-manager/target/classes/
+ssh-model/src/main/resources/
+ssh-model/src/test/
+ssh-service/src/main/resources/
+ssh-service/src/test/
+ssh-service/target/generated-sources/
+/.idea/vcs.xml
+/.idea/workspace.xml
