@@ -18,3 +18,4 @@ ssh-service/src/test/
 ssh-service/target/generated-sources/
 /.idea/vcs.xml
 /.idea/workspace.xml
+.idea/dictionaries/
