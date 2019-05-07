@@ -1,4 +1,4 @@
-package com.example.model.Aspect;
+package com.example.model.aspect;
 
 import java.lang.annotation.*;
 

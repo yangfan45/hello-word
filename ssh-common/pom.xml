@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ssh-model</artifactId>
+    <artifactId>ssh-common</artifactId>
 
     <dependencies>
         <!-- lombok插件 -->

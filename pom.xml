@@ -12,7 +12,7 @@
         <module>ssh-dao</module>
         <module>ssh-service</module>
         <module>ssh-manager</module>
-        <module>ssh-model</module>
+        <module>ssh-common</module>
         <module>ssh-app</module>
     </modules>
 
